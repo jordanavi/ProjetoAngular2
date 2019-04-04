@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app works!';
+  pessoas: string[] = ['Joao', 'aaa', 'Ze'];
 }
+
+
